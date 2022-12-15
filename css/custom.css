@@ -1,0 +1,45 @@
+.healing{
+    font-size: 80px;
+    color: rgb(238, 186, 16);
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.yellow{
+    color: rgb(238, 186, 16) !important;
+}
+
+.zdjecie{
+    height: 300px;
+    border: 2px white solid;
+}
+
+.header{
+    border-bottom: 2px bacl solid ;
+}
+
+
+.grey{
+    background-color: rgb(238, 238, 238);
+}
+
+.grey2{
+    background-color: rgb(216, 216, 216);
+}
+
+.grey3{
+    background-color: rgb(196, 196, 196);
+}
+
+
+
+@media (max-width: 450px) {
+
+    .healing{
+        font-size: 45px;
+    }
+    
+}
+
